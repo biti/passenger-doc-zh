@@ -1,6 +1,6 @@
 # 关于
 这个项目里面是一些关于passenger的文档翻译  
-由于本人英语很差，大家发现问题请及时在这里提出:https://github.com/biti/passenger-doc-zh/issues，不胜感激        
+由于本人英语很差，大家发现问题请及时在这里提出:[[https://github.com/biti/passenger-doc-zh/issues]]，不胜感激        
 如果愿意一起翻译，可以给我发站内信。
 
 ## 内容
